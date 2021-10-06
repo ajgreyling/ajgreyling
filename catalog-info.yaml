@@ -8,6 +8,6 @@ metadata:
      github.com/project-slug: ajgreyling/ajgreyling
   
 spec:
-  type: website
+  type: other
   owner: ajgreyling@gmail.com
-  lifecycle: experimental
+  lifecycle: unknown
