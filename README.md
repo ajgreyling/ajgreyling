@@ -4,7 +4,7 @@ Software engineer building developer tooling, database infrastructure, and AI-ag
 
 ### What I build
 
-- **[badger-db-mcp](https://github.com/ajgreyling/badger-db-mcp)** — minimal, token-efficient database MCP server for PostgreSQL, MySQL, SQL Server, SQLite, and MariaDB.
+- **[capybara-db-mcp](https://github.com/ajgreyling/capybara-db-mcp)** — minimal, token-efficient database MCP server for PostgreSQL, MySQL, SQL Server, SQLite, and MariaDB.
 - **[electric-elephant](https://github.com/ajgreyling/electric-elephant)** — Postgres-specific, token-aware, zero-dependency SQL MCP server.
 - **[cursor-doctor](https://github.com/ajgreyling/cursor-doctor)** — an MCP server that audits a project for documentation, rules, skills, and other knowledge artifacts.
 - **[helium-dsl-visx](https://github.com/ajgreyling/helium-dsl-visx)** — a Cursor-first DSL toolchain: language server, MCP server, editor extension, and packaging pipeline.
